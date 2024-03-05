@@ -1,0 +1,11 @@
+D:\Learning\Rust BootCamp\Rust_Inventory_System\rusty_store\target\debug\deps\libterm-6e5963ed0bee2189.rmeta: C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\lib.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\mod.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\searcher.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\compiled.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\names.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parm.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\win.rs
+
+D:\Learning\Rust BootCamp\Rust_Inventory_System\rusty_store\target\debug\deps\term-6e5963ed0bee2189.d: C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\lib.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\mod.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\searcher.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\compiled.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\names.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parm.rs C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\win.rs
+
+C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\lib.rs:
+C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\mod.rs:
+C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\searcher.rs:
+C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\compiled.rs:
+C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parser\names.rs:
+C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\terminfo\parm.rs:
+C:\Users\Fazee\.cargo\registry\src\index.crates.io-6f17d22bba15001f\term-0.7.0\src\win.rs:
