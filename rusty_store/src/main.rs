@@ -90,7 +90,7 @@ fn user_authentication(user: User) -> bool {
     let password = user_input("Enter password: ");
 
     if username.trim() == user.username && password.trim() == user.password {
-        println!("\n\n\t\tWelcome to the Rust Inventory System\n\n");
+        println!("\n\n\t\tWelcome to the Rusty Store\n\n");
         true
     }else{
         println!("\n\n\tWrong Username or password!!!");
@@ -143,11 +143,11 @@ fn main() {
                 1 => <Product as Inventory>::add_item(&mut inventory_vec),
                 2 => <Product as Inventory>::edit_item(&mut inventory_vec),
                 3 => <Product as Inventory>::delete_item(&mut inventory_vec),
-                4 => generate_report(&mut inventory_vec),
+                4 => generate_report(&inventory_vec),
                 5 => break,
                 _ => println!("\nInvalid choice\n"),
             }
         }
     }
-    println!("\n\nQuitting the program.")
+    println!("\n\nThank you for using our rusty store.")
 }
